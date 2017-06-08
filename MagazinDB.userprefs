@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{DA02DDAE-945F-440E-B50C-EC740CD9145A}|Default">
+  <MonoDevelop.Ide.ItemProperties.MagazinDB PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="MagazinDB/FormDoc.cs">
+    <Files>
+      <File FileName="MagazinDB/FormDoc.cs" Line="44" Column="54" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
